@@ -1,5 +1,9 @@
 # Text-Classification-
-The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents, partitioned (nearly) evenly across 20 different newsgroups. To the best of my knowledge, it was originally collected by Ken Lang, probably for his Newsweeder: Learning to filter netnews paper, though he does not explicitly mention this collection. The 20 newsgroups collection has become a popular data set for experiments in text applications of machine learning techniques, such as text classification and text clustering.
+<img src='https://miro.medium.com/max/1200/1*ljCBykAJUnvaZcuPYwm4_A.png'>
+* The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents, partitioned (nearly) evenly across 20 different newsgroups.
+* To the best of my knowledge, it was originally collected by Ken Lang, probably for his Newsweeder: Learning to filter netnews paper, though he does not explicitly mention this collection.
+* The 20 newsgroups collection has become a popular data set for experiments in text applications of machine learning techniques, such as text classification and text clustering.
+
 ## Classification Report
 ```
 -------------------------------------------------------
@@ -30,5 +34,11 @@ avg / total       0.75      0.74      0.74      3682
 -------------------------------------------------------
 ```
 ## Cross Validation score
+-----------|------------|----------
+0.65746753 | 0.69543974 | 0.6685761
+-----------|------------|----------
 
 ## File Runtime
+* 29.508705174922945 mins
+
+
